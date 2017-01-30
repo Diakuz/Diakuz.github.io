@@ -1,0 +1,8 @@
+Origin: Logan Brown's Repo
+Label: Logan Brown's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Repo by Logan Brown
